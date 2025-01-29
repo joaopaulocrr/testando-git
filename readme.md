@@ -4,3 +4,5 @@ PS D:\estudos\git\git-digital-course> git config --global user.email paulocorren
 Configuração do git
 
 Salvando modificações no git
+
+Comando git push
