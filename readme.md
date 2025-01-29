@@ -6,3 +6,5 @@ Configuração do git
 Salvando modificações no git
 
 Comando git push
+
+Comando git pull
